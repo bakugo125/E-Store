@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dblabprojectdbserver/databases/DBLabProject",
+      "type": "mssql.azure",
+      "connectionId": "DBLabConString",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

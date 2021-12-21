@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b86c9980-74b3-4970-92eb-5d4ffe68c44c": {
+      "ProjectGuid": "b86c9980-74b3-4970-92eb-5d4ffe68c44c",
+      "DisplayName": "OnlineStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

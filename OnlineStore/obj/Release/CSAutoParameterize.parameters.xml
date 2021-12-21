@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LabProjectConnectionString-Web.config Connection String" description="LabProjectConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DARKVULKAN; Initial Catalog=DBLabProject; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\r2fpdvzocm5ydw\\source\\repos\\OnlineStore\\OnlineStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LabProjectConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="OnlineStore.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" data-role="validator" data-hint-mode="line">
+        <div class="grid">
+            <div class="row cells12">
+                <div class="app-bar fixed-top">
+                    <a class="app-bar-element bg-darkTeal"><span class="mif-enter"></span>&nbsp Welcome!&nbsp &nbsp <%= Session["UserName"].ToString() %> </a>
+                    <span class="app-bar-divider"></span>
+                    <ul class="app-bar-menu">
+                    <asp:ContentPlaceHolder ID="menuContents" runat="server">
+                    </asp:ContentPlaceHolder>
+                    </ul>
+                </div>
+            </div>
+            <div class="row cells12">
+                <asp:ContentPlaceHolder ID="bodyContents" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="row cells12">
+                <div class="cell colspan12 bg-darkCobalt fg-white">
+                    <address class="align-center">
+                        <strong>Online Store</strong><br />
+                        FAST-NUCES, Faisal Town, Lahore<br />
+                        0321-1234567<br />
+                        www.mywebsite.com
+                        <br />
+                    </address>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

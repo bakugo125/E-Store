@@ -1,0 +1,19 @@
+c:\users\tasawar\documents\visual studio 2012\Projects\OnlineStore\OnlineStore\bin\OnlineStore.dll
+c:\users\tasawar\documents\visual studio 2012\Projects\OnlineStore\OnlineStore\bin\OnlineStore.pdb
+c:\users\tasawar\documents\visual studio 2012\Projects\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csprojResolveAssemblyReference.cache
+c:\users\tasawar\documents\visual studio 2012\Projects\OnlineStore\OnlineStore\obj\Debug\OnlineStore.dll
+c:\users\tasawar\documents\visual studio 2012\Projects\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+D:\OnlineStore\OnlineStore\bin\OnlineStore.dll.config
+D:\OnlineStore\OnlineStore\bin\OnlineStore.dll
+D:\OnlineStore\OnlineStore\bin\OnlineStore.pdb
+D:\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csprojAssemblyReference.cache
+D:\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\OnlineStore\OnlineStore\obj\Debug\OnlineStore.dll
+D:\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\bin\OnlineStore.dll.config
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\bin\OnlineStore.dll
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\bin\OnlineStore.pdb
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csprojAssemblyReference.cache
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.dll
+C:\Users\r2fpdvzocm5ydw\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
